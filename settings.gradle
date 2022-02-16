@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "GlobalUtil"
 include ':app'
+include ':Library'

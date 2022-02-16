@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GlobalUtil.iml" filepath="$PROJECT_DIR$/.idea/modules/GlobalUtil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Library/GlobalUtil.Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Library/GlobalUtil.Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GlobalUtil.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GlobalUtil.app.iml" />
     </modules>
   </component>
 </project>
